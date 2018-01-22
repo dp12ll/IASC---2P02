@@ -4,7 +4,7 @@
 
 My bio goes here.
 
-![](images/penguinslogo.png) 
+![](images/penguinslogo.jpg) 
 
 ## Blog post
 
