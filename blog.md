@@ -8,7 +8,6 @@ Topic Modeling Tool
 
 
 Works Cited 
-
 Berry, D. M., & Fagerjord, A. (2017). Digital humanities : knowledge and critique in a digital age. Retrieved from https://ebookcentral-proquest-com.proxy.library.brocku.ca 
 
 RAMSAY, S. (2011). Reading Machines: Toward an Algorithmic Criticism. University of Illinois Press. Retrieved from http://www.jstor.org/stable/10.5406/j.ctt1xcmrr
