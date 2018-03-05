@@ -9,4 +9,4 @@ My name is Dylan Pietrangelo. My favourite hockey team is the Pittsburgh Penguin
 
 ## Blog post
 
-My Blog Post can... [be found here](blog.md)
+My Blog Post... [Can be found here](blog.md)
