@@ -10,3 +10,7 @@ My name is Dylan Pietrangelo. My favourite hockey team is the Pittsburgh Penguin
 ## Blog post
 
 My Blog Post... [Can be found here](blog.md)
+
+## Solo Presentation
+
+[click here] (https://dp12ll.github.io/IASC---2P02/reveal/index.html)
