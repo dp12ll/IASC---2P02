@@ -13,4 +13,4 @@ My Blog Post... [Can be found here](blog.md)
 
 ## Solo Presentation
 
-[click here] (https://dp12ll.github.io/IASC---2P02/reveal/index.html)
+[click here](https://dp12ll.github.io/IASC---2P02/reveal/index.html)
