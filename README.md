@@ -7,7 +7,7 @@ I am a second-year student in the IASC program at Brock University. IASC focuses
 
 ## Featured Presentation: Revision of the Research Presentation
 
-![](Images/blackmirror.jpg)
+![](Images/netflix.jpg)
 
 This project focuses on old media archaeology and seeing it new. We had to research technology that was used in the past or present, then present it through a Pecha Kucha format. I chose to work with Black Mirror for this presentation. The reason I chose this is because there were several uses of an interactive contact lens found within the series that could be used in our future. I made a direct reference to how people were interrogated in the past and how they will be interrogated in the future. The reason this is important because we can justify when a person is lying or telling the truth. With this lens we will be able to tell not only when the person is lying but when they are telling the truth. Through several different windows we can tell when the interrogated person has their heart rate increasing during several questions, if they are accumulating more sweat and many more. These are just a few that were shown in Black Mirror. I also presented on how the military could use this type of technology. Preparation is key when it comes to any mission the military is assigned with, and without all possible outcomes assessed the soldiers could be injured or even killed. Through this interactive lens the soldiers are able to train harder, sleep better, and access a heads-up display while in the real world. But this type of technology isn’t only used for the military, it could be used for lawyers, doctors or even the ordinary person at home. Please type “s” on the finals 5 slides added to the Pecha Kucha to see the notes added. 
 
